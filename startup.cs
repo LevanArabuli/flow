@@ -2,6 +2,6 @@ public class Startup
 {
 	static void main()
 	{
-		Console.WriteLine("hi");
+		Console.WriteLine("test levan");
 	}
 }
